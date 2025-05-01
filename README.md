@@ -23,6 +23,9 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
   - **About Us** — about company.
   - **Tech Specs** — product highlights and performance data.
   - **Contacts** — call to action with styled form.
+- 🧩 **Modals** — includes:
+  - **FAQ modal** with an accordion for easy navigation.
+  - **Help modal** to assist users.
 
 ---
 
@@ -48,14 +51,14 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 /src
   /assets # Static files like images, icons, fonts
   /components # UI components (buttons, sections, etc.)
-	/shared # Reusable components (e.g. Header, Footer)
-	App.jsx # Main App component
-	input.css # Tailwind source styles
-	main.jsx  # Entry point that renders <App />
-	output.css # Compiled CSS
+  /shared # Reusable components (e.g. Header, Footer)
+  /App.jsx # Main App component
+  /input.css # Tailwind source styles
+  /main.jsx  # Entry point that renders <App />
+  /output.css # Compiled CSS
 ```
 
-## 🚀 Getting Started Locally
+## 😎 Getting Started Locally
 
 To run the project locally, follow these steps:
 
