@@ -26,6 +26,10 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 - 🧩 **Modals** — includes:
   - **FAQ modal** with an accordion for easy navigation.
   - **Help modal** to assist users.
+- 📱 **Custom slider** — a responsive slider component with:
+  - **Mobile version** with swipes and touch events.
+  - **Desktop version** with mouse events.
+  - **Context API** for state management and slider control.
 
 ---
 
@@ -33,6 +37,7 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 
 - **React**
 - **Tailwind CSS**
+- **Material Tailwind** for Accordion component
 - **HTML5 & JSX**
 - **AOS (Animate On Scroll)** for scroll-triggered animations
 
@@ -63,7 +68,7 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 To run the project locally, follow these steps:
 
 1. Clone the repository
-   `git clone https://github.com/your-username/katevr-landing-page.git`
+   `git clone https://github.com/HryniukTaras/KateVr-landing.git`
 
 2. Navigate into the project directory
    `cd KateVr-landing`
