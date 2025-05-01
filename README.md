@@ -30,6 +30,7 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
   - **Mobile version** with swipes and touch events.
   - **Desktop version** with mouse events.
   - **Context API** for state management and slider control.
+- 📝 **Form validation** — checks for valid email, name, and message.
 
 ---
 
@@ -54,9 +55,9 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 
 ```bash
 /src
-  /assets # Static files like images, icons, fonts
-  /components # UI components (buttons, sections, etc.)
-  /shared # Reusable components (e.g. Header, Footer)
+  /assets # Static files like images, icons
+  /components # UI components
+  /shared # Reusable components
   /App.jsx # Main App component
   /input.css # Tailwind source styles
   /main.jsx  # Entry point that renders <App />
