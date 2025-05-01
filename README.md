@@ -37,8 +37,8 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 
 ## 🌐 Live Demo
 
-🔗 [View the live site](#)  
-🎨 [View the design on Figma](#)
+🔗 [View the live site](https://hryniuktaras.github.io/layout_KateVR/)  
+🎨 [View the design on Figma](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370)
 
 ---
 
@@ -49,7 +49,6 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
   /assets # Static files like images, icons, fonts
   /components # UI components (buttons, sections, etc.)
 	/shared # Reusable components (e.g. Header, Footer)
-
 	App.jsx # Main App component
 	input.css # Tailwind source styles
 	main.jsx  # Entry point that renders <App />
@@ -61,16 +60,16 @@ From the visually striking **Hero section** to the informative **Tech Specs**, e
 To run the project locally, follow these steps:
 
 1. Clone the repository
-   git clone https://github.com/your-username/katevr-landing-page.git
+   `git clone https://github.com/your-username/katevr-landing-page.git`
 
 2. Navigate into the project directory
-   cd katevr-landing-page
+   `cd KateVr-landing`
 
 3. Install dependencies
-   npm install or yarn install
+   `npm install` or `yarn install`
 
 4. Run the development server
-   npm run dev or yarn dev
+   `npm run dev` or `yarn dev`
 
 5. Open in your browser
-   Usually available at: http://localhost:5173
+   Usually available at: `http://localhost:5173`
